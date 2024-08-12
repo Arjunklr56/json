@@ -2,8 +2,7 @@
   "jobs": [
     {
       "id": 1,
-      "name": "Job1",
-      "images":"./image3.png"
+      "name": "Job1"
     },
     {
       "id": 2,
